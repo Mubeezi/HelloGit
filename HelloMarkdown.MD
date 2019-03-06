@@ -11,9 +11,9 @@ Greenhill Academy | 2007-2012
 
 ##Emoji
 
-*:bowtie
-*:laughing
-*:wink
+*:bowtie:
+*:laughing:
+*:relaxed:
 
 ###Favorite Quote:
 
